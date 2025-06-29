@@ -1,0 +1,26 @@
+{
+  "name": "hm-7",
+  "version": "1.0.0",
+  "description": "Задание 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yurdoy/node-hm-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yurdoy/node-hm-7/issues"
+  },
+  "homepage": "https://github.com/Yurdoy/node-hm-7#readme",
+  "dependencies": {
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
+}
